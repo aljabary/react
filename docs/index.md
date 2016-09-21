@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A JavaScript library for building user interfaces
+title: Sebuah JavaScript library untuk membangun user interfaces
 id: home
 ---
 
