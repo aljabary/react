@@ -7,14 +7,14 @@ id: home
 <section class="light home-section">
   <div class="marketing-row">
     <div class="marketing-col">
-      <h3>Declarative</h3>
-      <p>React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.</p>
-      <p>Declarative views make your code more predictable and easier to debug.</p>
+      <h3>Deklarasi</h3>
+      <p>React untuk membuat UI interaktif tanpa menyusahkan. Desain tampilan sederhana untuk setiap keadaan dalam aplikasi Anda, dan React akan memperbarui secara efisien dan hanya merender komponen yang tepat ketika data anda berubah.</p>
+      <p>Deklarasi views membuat kode anda lebi predictable and lebih mudah untuk didebug.</p>
     </div>
     <div class="marketing-col">
-      <h3>Component-Based</h3>
-      <p>Build encapsulated components that manage their own state, then compose them to make complex UIs.</p>
-      <p>Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM.</p>
+      <h3>Basis Komponene</h3>
+      <p>Bangun rumusan komponen untuk mengelola keadaannya, kemudian ubah menjadi UIS yang kompleks.</p>
+      <p>Sejak komponen logika ditulis dalam JavaScript pengganti dari template, anda dapat dengan mudah mengumpan data yang kaya melalui aplikasi anda dan  menjaga keadaan DOM.</p>
     </div>
     <div class="marketing-col">
       <h3>Belajar sekali, Tulis segalanya</h3>
