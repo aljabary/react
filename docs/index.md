@@ -17,7 +17,7 @@ id: home
       <p>Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM.</p>
     </div>
     <div class="marketing-col">
-      <h3>Learn Once, Write Anywhere</h3>
+      <h3>Belajar sekali, Tulis segalanya</h3>
       <p>We don't make assumptions about the rest of your technology stack, so you can develop new features in React without rewriting existing code.</p>
       <p>React can also render on the server using Node and power mobile apps using <a href="https://facebook.github.io/react-native/">React Native</a>.</p>
     </div>
